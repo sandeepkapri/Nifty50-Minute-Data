@@ -1,7 +1,7 @@
 
 # Nifty50 Minute Data: 09-01-2015 to 27-03-2024
 
-This dataset contains minute-level data for Nifty50 spanning from January 9, 2015, to March 22, 2024. The dataset is suitable for financial analysis, algorithmic trading strategies, and time series forecasting.
+This dataset contains minute-level data for Nifty50 spanning from January 9, 2015, to March 27, 2024. The dataset is suitable for financial analysis, algorithmic trading strategies, and time series forecasting.
 
 
 ## Content
